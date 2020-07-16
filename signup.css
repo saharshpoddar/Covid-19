@@ -1,0 +1,78 @@
+body{
+    
+    background: url('./assets/corona.jpg') repeat 0 0;
+    background-size: cover;
+    text-align: center;
+    padding-top: 100px;
+}
+div.log{
+  background-color: yellow;  
+  width: 720px;
+  padding: 30px;
+  border: 5px solid rgb(34, 32, 32);
+  margin: 15px;
+  display: inline-block;
+  text-align: left;
+}
+h1,h2,h3{
+  text-align: center;
+  color: #2F363F;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+#heads{
+  background-color: rgb(23, 177, 248);
+  border: 2px solid;
+  padding:7px;
+}
+input,select{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=submit],select{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  background-color: rgb(47, 111, 196);
+  color: whitesmoke;
+} 
+p#for{
+  color: blue;
+}
+p#new{
+  color: blue;
+  text-align: center;
+}
+a:hover{
+  text-decoration: rosybrown;
+}
+button{
+  align-items: center;
+  align-self: center;
+  align-content: center;
+  
+}
+#most{
+  background-color: yellow;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p#less{
+  background-color: pink;
+  font-family: fantasy;
+}
+p#serious{
+  background-color: greenyellow;
+  font-family: cursive;
+}
+.btn btn-primary btn-lg{
+  border: #2F363F solid 1px;
+}
+  
